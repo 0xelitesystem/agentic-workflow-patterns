@@ -47,6 +47,10 @@ The framing of "AI does the coding" hides the real work, which is everything aro
 
 PRs welcome. See [CONTRIBUTING.md](./CONTRIBUTING.md). Patterns must come from real experience and address a specific situation.
 
+## More
+
+Part of a catalog of single-file browser tools and plain-language references, all MIT licensed and dependency-free: [0xelitesystem.github.io](https://0xelitesystem.github.io/). Built by [elitesystem.ai](https://elitesystem.ai).
+
 ## License
 
 MIT.
