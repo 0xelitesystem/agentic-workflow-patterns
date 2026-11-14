@@ -58,4 +58,4 @@ For monorepos, each subdirectory can have its own context file. The agent reads 
 ## Tools
 
 - [agent-instructions-file-builder](https://github.com/0xelitesystem/agent-instructions-file-builder) - interactive builder
-- [cursor-rules-collection](https://github.com/0xelitesystem/cursor-rules-collection) - examples by stack
+- [stack-rules-for-coding-agents](https://github.com/0xelitesystem/stack-rules-for-coding-agents) - examples by stack
