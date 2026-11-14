@@ -57,5 +57,5 @@ For monorepos, each subdirectory can have its own context file. The agent reads 
 
 ## Tools
 
-- [claude-md-generator](https://github.com/0xelitesystem/claude-md-generator) - interactive builder
+- [agent-instructions-file-builder](https://github.com/0xelitesystem/agent-instructions-file-builder) - interactive builder
 - [cursor-rules-collection](https://github.com/0xelitesystem/cursor-rules-collection) - examples by stack
